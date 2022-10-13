@@ -10,6 +10,11 @@ namespace _3_1
     {
         static void Main(string[] args)
         {
+            int x, y = 0;
+            x = int.Parse(Console.ReadLine());
+            y = int.Parse(Console.ReadLine());
+            if (x > y)
+                Console.WriteLine("xはyより大きい");
         }
     }
 }
