@@ -1,0 +1,15 @@
+C:\Users\isoda\source\repos\work8\work8\bin\Debug\net6.0\work8.exe
+C:\Users\isoda\source\repos\work8\work8\bin\Debug\net6.0\work8.deps.json
+C:\Users\isoda\source\repos\work8\work8\bin\Debug\net6.0\work8.runtimeconfig.json
+C:\Users\isoda\source\repos\work8\work8\bin\Debug\net6.0\work8.dll
+C:\Users\isoda\source\repos\work8\work8\bin\Debug\net6.0\work8.pdb
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.csproj.AssemblyReference.cache
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.AssemblyInfoInputs.cache
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.AssemblyInfo.cs
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.csproj.CoreCompileInputs.cache
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.dll
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\refint\work8.dll
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.pdb
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\work8.genruntimeconfig.cache
+C:\Users\isoda\source\repos\work8\work8\obj\Debug\net6.0\ref\work8.dll

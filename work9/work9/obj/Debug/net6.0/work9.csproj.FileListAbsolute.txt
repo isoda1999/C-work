@@ -1,0 +1,15 @@
+C:\Users\isoda\source\repos\work9\work9\bin\Debug\net6.0\work9.exe
+C:\Users\isoda\source\repos\work9\work9\bin\Debug\net6.0\work9.deps.json
+C:\Users\isoda\source\repos\work9\work9\bin\Debug\net6.0\work9.runtimeconfig.json
+C:\Users\isoda\source\repos\work9\work9\bin\Debug\net6.0\work9.dll
+C:\Users\isoda\source\repos\work9\work9\bin\Debug\net6.0\work9.pdb
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.csproj.AssemblyReference.cache
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.AssemblyInfoInputs.cache
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.AssemblyInfo.cs
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.csproj.CoreCompileInputs.cache
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.dll
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\refint\work9.dll
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.pdb
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\work9.genruntimeconfig.cache
+C:\Users\isoda\source\repos\work9\work9\obj\Debug\net6.0\ref\work9.dll
