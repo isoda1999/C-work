@@ -8,8 +8,7 @@ Console.WriteLine("Hello, World!");
 
         if (judgement == 1){
             strike++;
-        }
-        else if (judgement == 2)
+        }else if (judgement == 2)
             ball++;
         }
 Console.WriteLine("ストライク" + strike+":"+"ボール" + ball) ;
