@@ -11,7 +11,7 @@ while (true ){
     }
         sum += num;
         count++;
-    }
+}
 
 
 Console.WriteLine("平均は" + (sum / count));
