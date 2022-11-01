@@ -5,8 +5,7 @@ using System.Text;
 Console.WriteLine("hellow world");
 
 //コンソールに入力された値をとってくる
-//int n = int.Parse(Console.ReadLine());
-int n = 5;
+int n = int.Parse(Console.ReadLine());
 
 //入力された数だけ文字列増やす処理をSizeにつける
 for (int i = 0; i < n; i++)
