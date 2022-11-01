@@ -7,9 +7,10 @@ while (true){
     if (num == 0)
     {
         break;
-       
+        sum += num;
 
     }
     Console.WriteLine(num);
     Console.WriteLine("合計は" + sum);
+
 }
