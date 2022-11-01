@@ -4,7 +4,6 @@ using System.ComponentModel;
 Console.WriteLine("Hello, World!");
 //配列の宣言・要素数の初期化
 int[] x = new int[10];
-
 //入力された値を10回取得する
 for (int i = 0; i < 10; i++)
 {
