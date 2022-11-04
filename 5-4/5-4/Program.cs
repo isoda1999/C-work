@@ -14,14 +14,16 @@ for (i = 0; i < 10; i++)
 
     sum += x[i];
 
-    if (sum >= 100)
+    if (sum > 100)
     {
         Console.WriteLine(sum);
         break;
     }
 }
 for (i = 0; i < 10; i++)
+{
     if (i < 10)
     {
         Console.WriteLine("入力された値" + x[i]);
     }
+}
